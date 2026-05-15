@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/profit_calculator"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp" />
+
+    <EditText
+        android:id="@+id/etQuantityProfit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Quantity (KG)"
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:id="@+id/etFilteringCost"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Filtering Cost per KG"
+        android:inputType="numberDecimal"
+        android:layout_marginTop="10dp" />
+
+    <Button
+        android:id="@+id/btnCalculate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Calculate Profit"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:id="@+id/tvProfitResult"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#4CAF50"
+        android:gravity="center" />
+
+</LinearLayout>

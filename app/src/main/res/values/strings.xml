@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Jenu-Gumpu</string>
+    <string name="harvest_log">Harvest Log</string>
+    <string name="date">Date</string>
+    <string name="location">Location</string>
+    <string name="quantity">Quantity (KG)</string>
+    <string name="floral_source">Floral Source</string>
+    <string name="save">Save Harvest</string>
+    <string name="grading_tool">Grading Tool</string>
+    <string name="price_monitor">Price Monitor</string>
+    <string name="batch_tracker">Batch Tracker</string>
+    <string name="profit_calculator">Profit Calculator</string>
+    <string name="collective_stock">Total Collective Stock</string>
+    <string name="saved_successfully">Saved Successfully</string>
+    <string name="fill_all_fields">Please fill all fields</string>
+</resources>

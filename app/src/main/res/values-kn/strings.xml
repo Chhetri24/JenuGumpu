@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ಜೇನು-ಗುಂಪು</string>
+    <string name="harvest_log">ಕೊಯ್ಲು ಲಾಗ್</string>
+    <string name="date">ದಿನಾಂಕ</string>
+    <string name="location">ಸ್ಥಳ</string>
+    <string name="quantity">ಪ್ರಮಾಣ (ಕೆಜಿ)</string>
+    <string name="floral_source">ಹೂವಿನ ಮೂಲ</string>
+    <string name="save">ಉಳಿಸಿ</string>
+    <string name="grading_tool">ಶ್ರೇಣೀಕರಣ ಸಾಧನ</string>
+    <string name="price_monitor">ಬೆಲೆ ಮೇಲ್ವಿಚಾರಣೆ</string>
+    <string name="batch_tracker">ಬ್ಯಾಚ್ ಟ್ರ್ಯಾಕರ್</string>
+    <string name="profit_calculator">ಲಾಭ ಕ್ಯಾಲ್ಕುಲೇಟರ್</string>
+    <string name="collective_stock">ಒಟ್ಟು ದಾಸ್ತಾನು</string>
+    <string name="saved_successfully">ಯಶಸ್ವಿಯಾಗಿ ಉಳಿಸಲಾಗಿದೆ</string>
+    <string name="fill_all_fields">ದಯವಿಟ್ಟು ಎಲ್ಲಾ ಕ್ಷೇತ್ರಗಳನ್ನು ಭರ್ತಿ ಮಾಡಿ</string>
+</resources>
